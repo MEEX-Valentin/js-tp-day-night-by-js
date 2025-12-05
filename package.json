@@ -1,0 +1,22 @@
+{
+  "name": "js-tp-day-night-by",
+  "version": "1.0.0",
+  "description": "> JS exercise given at HEPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEEX-Valentin/js-tp-day-night-by-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEEX-Valentin/js-tp-day-night-by-js/issues"
+  },
+  "homepage": "https://github.com/MEEX-Valentin/js-tp-day-night-by-js#readme",
+  "devDependencies": {
+    "vite": "^7.2.6"
+  }
+}
